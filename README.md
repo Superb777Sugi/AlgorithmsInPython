@@ -10,5 +10,5 @@
 
 <div>
   <h2> Programmers School </h2>
-  <a href="https://github.com/Superb777Sugi/AlgorithmsInPython/tree/main/Lv.0">Lv.0 </a>
+  <a href="https://github.com/Superb777Sugi/AlgorithmsInPython/tree/main/ProgrammersSchool/Lv.0">Lv.0 </a>
 </div>
