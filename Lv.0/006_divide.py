@@ -1,4 +1,4 @@
-def solution(num1, num2):
+def solution(num1: int, num2: int) -> int:
     """
     >>> solution(10, 5)
     2.0
