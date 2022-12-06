@@ -1,4 +1,4 @@
-def solution(n):
+def solution(n: int) -> int:
     """
     >>> solution(7)
     1
